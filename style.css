@@ -1,0 +1,53 @@
+* {
+    background-color: #5390d9;
+    margin: 0;
+    padding: 0;
+}
+
+.name-apresentation1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 70px;
+    padding: 10% 1% 0% 10%;
+    display: inline-block;
+}
+
+.name-apresentation2 {
+    font-family: serif;
+    font-size: 70px;
+    color: #fc0c78;
+    display: inline-block;
+    padding: 0% 1% 0% 0%;
+}
+
+.name-apresentation3 {
+    font-family: serif;
+    font-size: 30px;
+    color: black;
+    display: inline-block;
+    padding: 0% 0% 0% 10%;
+}
+
+.name-apresentation4 {
+    font-family: serif;
+    font-size: 30px;
+    color: #f72585;
+    display: inline-block;
+    padding: 0% 0% 10% 0%;
+}
+
+#about-me {
+    font-family: serif;
+    font-size: 30px;
+    color: #f72585;
+    display: inline-block;
+    padding: 0% 0% 1% 10%;
+    border: 2px solid black;
+    padding-right: 10px;
+    background-color: black;
+   
+    }
+    .about-me h2 {
+        font-size: 40px;
+        font-family: serif;
+        padding: 25% 0% 0% 0%;
+    }
