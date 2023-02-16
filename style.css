@@ -1,5 +1,4 @@
 * {
-    background-color: #cdb4db;
     margin: 0;
     padding: 0;
 }
@@ -54,20 +53,61 @@
 
 }
 
-.marcados { 
+.marcados {
     color: #f72585;
     font-weight: bold;
 }
 
-#skills{
-    background-color:aquamarine;
+#skills {
+    background-color: #191919;
     width: 100%;
     height: 100%;
-    display: flex;
-    
 
 }
+
 .desc-skills h1 {
-    
+    color: #f72585;
     font-family: 'Rajdhani', sans-serif;
+    padding-left: 30px;
+    padding-top: 40px;
+    font-size: 50px;
+}
+
+.desc-skills h2 {
+    font-family: 'Rajdhani', sans-serif;
+    color: white;
+    padding-left: 30px;
+    font-size: 35px;
+}
+
+.skills-list {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    padding-left: 30px;
+    font-weight: bold;
+    padding-top: 1px;
+    margin-top: 50px;
+    font-size: 30px;
+    padding-bottom: 0px;
+
+}
+
+#paciencia {
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    text-decoration: line-through;
+    padding-bottom: 40px;
+}
+
+.contact {
+    background-color:#f72585;
+    width: 100%;
+    height: 100%;
+
+}
+
+#linktree {
+    
+    text-align: center;
+    
 }
